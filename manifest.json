@@ -1,11 +1,11 @@
 {
-    "name": "trade_ecom_web_version1",
-    "short_name": "trade_ecom_web_version1",
+    "name": "raghavgroup_website_v1",
+    "short_name": "raghavgroup_website_v1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Ecom trade web version 1",
+    "description": "Transforming success",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
