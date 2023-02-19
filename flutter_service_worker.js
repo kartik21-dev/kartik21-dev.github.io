@@ -7,9 +7,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "2abf88817938cca7761a56861f3cfd1a",
 "canvaskit/profiling/canvaskit.js": "79bb5d744b0bec63ab46eddfd6b52546",
 "canvaskit/profiling/canvaskit.wasm": "5886b7db0562bf9d812900ab17ad2b1e",
-"main.dart.js": "87239e1dfd355b6d59526316b9413ed8",
-"index.html": "a130c7c2f339241a3438b2fd65fed142",
-"/": "a130c7c2f339241a3438b2fd65fed142",
+"main.dart.js": "f90512bd693bb0564555bcae47e24743",
+"index.html": "84f26d4713565210869f6b4d1216b398",
+"/": "84f26d4713565210869f6b4d1216b398",
 "manifest.json": "f1f25ccd6b4b743630c5ed3813beb24f",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -18,11 +18,12 @@ const RESOURCES = {
 "version.json": "e481b0abc414c97be3439cd114d4be8c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "8ae00b472ec3937a5bee52055d6bc8b4",
-"assets/NOTICES": "6e1b87aaa8691636291b2cbad2f5d31b",
+"assets/NOTICES": "d92b53ae45c27b6e94db3913bd69f798",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/AssetManifest.json": "e8e650b750842bd7eab2700ae6b2d225",
+"assets/AssetManifest.json": "460a54ea89c6a2dfe120d59efecc433d",
 "assets/FontManifest.json": "424ca77ad9dfcc186e16552ad7fcd2b1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "2ad5fabd6a36a6deff087b8edfd0c1f8",
 "assets/assets/fonts/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
 "assets/assets/fonts/Roboto-Black.ttf": "301fe70f8f0f41c236317504ec05f820",
@@ -32,8 +33,12 @@ const RESOURCES = {
 "assets/assets/images/2Criminal.jpg": "4904a91e232aaeedc7518b071451da99",
 "assets/assets/images/4Masoon.jpg": "40329ebb2f7550595d111722d0095af0",
 "assets/assets/images/1Arya.jpg": "a3f2d3608270e6d8907f0ca092753e14",
+"assets/assets/images/tree.png": "05640786fb17ece966ac1a938561211c",
 "assets/assets/images/3Dahan.jpg": "412471d741c0970f59a94c6f13497a76",
-"assets/assets/images/5MoonKnight.jpg": "856e29cd984fc8cdd95cbe7e25e06855"
+"assets/assets/images/5MoonKnight.jpg": "856e29cd984fc8cdd95cbe7e25e06855",
+"assets/assets/images/concept-1-1.png": "7da5283bf8b77489662e48ef20bc3b46",
+"assets/assets/images/icon.png": "51169269ff198db122e415d88b3f9af2",
+"assets/assets/images/about-us_img-1.png": "133f83a15b66f532ed046e54fca3a632"
 };
 
 // The application shell files that are downloaded before a service worker can
