@@ -35831,7 +35831,7 @@ A.EP.prototype={}
 A.xA.prototype={
 O(a){var s,r,q,p,o,n,m,l,k=null,j=A.bj(a).b7
 A.bj(a)
-s=new A.a_a(a,B.E,k,k,k,1,B.xj,B.Cx)
+s=new A.a_a(a,B.E,k,k,k,1,B.xk,B.Cx)
 r=j.f
 if(r==null){r=s.f
 r.toString}q=j.b
@@ -54843,7 +54843,7 @@ O(a){var s,r,q=this,p=null,o=a.X(t.w).f,n=A.aW(B.d.aP(255*q.a.c),255,255,255)
 o=o.a.a
 s=o/25
 r=t.p
-return A.ke(p,A.kY(A.a([A.a8q(new A.d9(B.xk,A.kY(A.a([A.dj(A.a5t("assets/icons/icon_transparent.png",p),80,p),A.dj(p,p,o/2),q.mC("Home",0),A.dj(p,p,s),q.mC("Our Wing",1),A.dj(p,p,s),q.mC("Services",2),A.dj(p,p,s),q.mC("Our Company",3),A.dj(p,p,s),q.mC("Reach us",4),A.dj(p,p,s)],r),B.aW,B.a7),p))],r),B.aW,B.a7),n,p,p,p,p,p)},
+return A.ke(p,A.kY(A.a([A.a8q(new A.d9(B.xj,A.kY(A.a([A.dj(A.a5t("assets/icons/icon_transparent.png",p),200,150),A.dj(p,p,o/2),q.mC("Home",0),A.dj(p,p,s),q.mC("Our Wing",1),A.dj(p,p,s),q.mC("Services",2),A.dj(p,p,s),q.mC("Our Company",3),A.dj(p,p,s),q.mC("Reach us",4),A.dj(p,p,s)],r),B.aW,B.a7),p))],r),B.aW,B.a7),n,p,p,p,p,p)},
 mC(a,b){var s=null,r=this.d,q=A.nG(a,A.fu(s,s,r[b]?new A.E(4278680535):new A.E(4279028695),s,s,s,s,s,s,s,s,20,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),p=A.dj(s,5,s)
 r=r[b]
 return A.a5v(!1,!0,A.yi(A.a([q,p,new A.Ek(A.ke(s,s,new A.E(4278522945),s,2,s,s,20),r,!0,!0,!0,s)],t.p),B.bO,B.qd),s,!0,s,s,s,s,s,s,s,new A.a1k(this,b),s,new A.a1l(),s)}}
@@ -57263,8 +57263,8 @@ B.bQ=new A.b0(6e5)
 B.xh=new A.b0(-38e3)
 B.bR=new A.b7(0,0,0,0)
 B.xi=new A.b7(16,0,16,0)
-B.xj=new A.b7(4,4,4,4)
-B.xk=new A.b7(8,8,8,8)
+B.xj=new A.b7(2,2,2,2)
+B.xk=new A.b7(4,4,4,4)
 B.xl=new A.q0(null)
 B.xm=new A.mn(0,"noOpinion")
 B.xn=new A.mn(1,"enabled")
