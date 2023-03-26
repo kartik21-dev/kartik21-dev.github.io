@@ -58887,7 +58887,8 @@ s=e.a/4
 r=s
 s=e
 e=r}c.toString
-if(s.a<800){c=t.p
+c=s.a
+if(c<1000||c<800){c=t.p
 s=A.a([],c)
 for(q=h.d,p=h.r,o=h.f,n=0;n<4;++n){m=h.a.c
 l=m.b/45
