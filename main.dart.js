@@ -72109,7 +72109,7 @@ s=10
 return A.a0(A.akq(p,A.a([A.iW(A.e3(null,A.cq(A.aq("Our Team",null,null,null),null,null),B.T,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.acO(p),null,null,null),f),A.iW(A.e3(null,A.cq(A.aq("Code of Etics",null,null,null),null,null),B.T,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,new A.acF(p),null,null,null),f)],t.nm),new A.qS(j,n+i.b,j+h.a,n+g.b+(o.b-n-m.b)),f),$async$$0)
 case 10:case 9:s=d===4?11:12
 break
-case 11:e=A.kt("https://docs.google.com/forms/d/e/1FAIpQLSdDdSULar6XwduWXlq_rSWOmqFxbs8dHZs4dHbL4p1BscUg5g/viewform",0,null)
+case 11:e=A.kt("https://forms.gle/TF8jTFRJomudU3jg8",0,null)
 s=16
 return A.a0(A.ak_(e),$async$$0)
 case 16:s=b?13:15
