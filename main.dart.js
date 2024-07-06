@@ -72728,8 +72728,8 @@ return new A.Jm(r,q,A.aO(B.O,A.b7(A.a([A.bq(A.a([new A.jd("assets/icons/insta1.s
 Fa(){var s=null,r=A.pw(new A.aV(0,0)),q=A.a([new A.eo(0,B.bk,B.aP,new A.o(1,6),1)],t.sq),p=A.a([B.aP,B.aP],t.t_),o=A.a([0,1],t.n),n=t.p
 return A.aO(s,A.bq(A.a([A.bq(A.a([new A.jd("assets/icons/insta1.svg",u.G,s),A.aM(s,s,20),new A.jd("assets/icons/fb.svg",u.i,s),A.aM(s,s,20),new A.jd("assets/icons/yt.svg","https://www.youtube.com/@raghavgroup5412",s),A.aM(s,s,20)],n),B.l,B.k,B.j),A.aO(s,s,B.m,s,s,150,s,s,2),A.b7(A.a([new A.af(B.bd,A.ao("Raghav group & Co",s,A.aJ(s,s,B.m,s,s,s,s,s,s,s,s,35,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s),s),new A.af(B.bc,A.vc(B.m,s),s),new A.af(B.bc,new A.k1("Email","hi.raghavgroup@gmail.com",s),s),new A.af(B.bc,new A.k1("Contact","+91 9028945936",s),s),new A.af(B.bc,new A.k1("Office",u.F,s),s)],n),B.at,B.k,B.j)],n),B.l,B.qe,B.j),s,s,new A.cJ(s,s,s,r,q,new A.nL(B.kU,B.kT,B.aU,p,o,s),B.a8),s,s,new A.ah(30,30,30,30),s)}}
 A.wB.prototype={
-aj(){var s="assets/images/5MoonKnight.jpg",r=t.s
-return new A.Of(new A.DY(new A.bh(new A.al($.ak,t.wC),t.Fe)),[!1,!1,!1,!1,!1,!1,!1],[!0,!1,!1,!1,!1,!1,!1],A.a(["assets/images/1Arya.jpg","assets/images/2Criminal.jpg","assets/images/3Dahan.jpg","assets/images/4Masoon.jpg",s,"assets/images/Jublee6.jpg"],r),A.a(["assets/images/postersformobilesize/slidingimg1.jpg",s],r),A.a(["Marketing","Films ","Web-Devlopment","Design","Accounting"],r),B.n)}}
+aj(){var s=t.s
+return new A.Of(new A.DY(new A.bh(new A.al($.ak,t.wC),t.Fe)),[!1,!1,!1,!1,!1,!1,!1],[!0,!1,!1,!1,!1,!1,!1],A.a(["assets/images/1Arya.jpg","assets/images/2Criminal.jpg","assets/images/3Dahan.jpg","assets/images/4Masoon.jpg","assets/images/5MoonKnight.jpg","assets/images/Jublee6.jpg"],s),A.a(["assets/images/postersformobilesize/si_1.jpg","assets/images/postersformobilesize/si_2.jpg"],s),A.a(["Marketing","Films ","Web-Devlopment","Design","Accounting"],s),B.n)}}
 A.Of.prototype={
 w3(a){var s=this.x,r=A.ab(s).h("a5<1,af>")
 return A.a1(new A.a5(s,new A.acW(),r),!0,r.h("aU.E"))},
